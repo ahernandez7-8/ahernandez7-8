@@ -31,4 +31,4 @@ Estudiant de **1r de DAM** (Desenvolupament d'Aplicacions Multiplataforma) a Olo
 - Idiomes: català (C1), castellà (C1), anglès (B2)
 
 ## Contacte
-- GitHub: [@elteuusuari](https://github.com/elteuusuari)
+- GitHub: [@ahernandez7-8](https://github.com/elteuusuari)
