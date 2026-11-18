@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, sóc l'Arnau Hernández
 
-<!--
-**ahernandez7-8/ahernandez7-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiant de **1r de DAM** (Desenvolupament d'Aplicacions Multiplataforma) a Olot, a la Garrotxa. Vinc del Batxillerat de Ciències i Tecnologia i ara estic entrant de ple en el món de la programació.
 
-Here are some ideas to get you started:
+*«Aprendre una mica cada dia.»*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Què m'interessa
+- Desenvolupament d'aplicacions i programació en Java
+- Desenvolupament web (HTML i CSS)
+- Aplicar la tecnologia al benestar de les persones: estic treballant en una idea d'IA que millora l'estat d'ànim recomanant activitats reals, com rutes amb mirador a la Garrotxa
+
+## Objectius professionals
+- Treballar com a desenvolupador d'aplicacions
+- Crear projectes propis que tinguin un impacte real a la meva comarca
+
+## Coneixements i tecnologies
+
+**Llenguatges de programació**
+- Java (aprenent: bucles, condicionals)
+
+**Desenvolupament web**
+- HTML i CSS (aprenent)
+
+**Eines**
+- Visual Studio Code
+- Git i GitHub (aprenent)
+
+## Altres coses sobre mi
+- Esport cada dia: gimnàs, pesos i cardio
+- Monitor CIATE i primers auxilis de la Creu Roja
+- Idiomes: català (C1), castellà (C1), anglès (B2)
+
+## Contacte
+- GitHub: [@elteuusuari](https://github.com/elteuusuari)
